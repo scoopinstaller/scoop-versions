@@ -9,8 +9,9 @@
             "hash": "5c44dd6527d4aa1fcd80f7682ecea31e0a5dab3d5eab75c4a5ddd3e804a8d0ee"
         }
     },
-    "extract_dir": "windows_artifacts",
+    "extract_dir": "dist",
     "bin": "odin.exe",
+    "bin": "dist/odin.exe",
     "checkver": {
         "url": "https://odinbinaries.thisdrunkdane.io/file/odin-binaries/nightly.json",
         "regex": "nightly%2B([\\d\\-]+).zip",
