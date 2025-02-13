@@ -9,7 +9,6 @@
             "hash": "6a0844025cea10198689cf26e31686b162129526971c7b62ebf75616e15201c5"
         }
     },
-    "extract_dir": "dist",
     "bin": "odin.exe",
     "checkver": {
         "url": "https://odinbinaries.thisdrunkdane.io/file/odin-binaries/nightly.json",
